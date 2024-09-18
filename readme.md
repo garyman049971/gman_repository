@@ -3,8 +3,7 @@
 
 1. Pomme  
 2. Banane  
-3. Orange  
-4. Fraise  
+3. Orange   
 5. Ananas  
 6. Mangue  
 7. Kiwi  
